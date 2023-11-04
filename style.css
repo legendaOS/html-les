@@ -1,0 +1,23 @@
+.pgr {
+    color: green;
+}
+
+#firstP{
+    color: blue;
+}
+
+p {
+    color: red;
+    border: 1px;
+    font-size: 30px;
+}
+
+img{
+    width: auto;
+    height: 100px;
+    background-color: black;
+}
+
+strong{
+    background-color: blueviolet;
+}
